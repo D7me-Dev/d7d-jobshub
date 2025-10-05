@@ -16,7 +16,7 @@
 
 ## Add a New Job (config.lua)
 
-Open `config.lua` and add a new entry under `Config.Jobs`. Example for a `mechanic` job:
+Open `config.lua` and add a new entry under `Config.Jobs`. Example for a `new job`:
 
 ```lua
 Config.Jobs = Config.Jobs or {}
