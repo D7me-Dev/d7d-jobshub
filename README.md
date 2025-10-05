@@ -53,3 +53,10 @@ Config.Jobs["job_name"] = {
 
 - Original Script Author: PRX - https://discord.gg/ZWeaTtcgbE
 - Fully Modified By: D7me - https://discord.com/invite/6kBKEHW4cd
+
+----
+
+## Preview
+
+![Preview](https://cdn.discordapp.com/attachments/1129942093641551872/1424472202534719538/Y1QudV7.png?ex=68e4129e&is=68e2c11e&hm=951094d9c4157d17e7f865281826468abdf747e85b69c34ecc3018593f11ca1c&)
+![Preview](https://cdn.discordapp.com/attachments/1129942093641551872/1424472201926541352/BpZ16z4.png?ex=68e4129e&is=68e2c11e&hm=8c0a9d779ff7a1adcd15f4218d8e171c4643b0724857d34dc646345cc6b0cf1f&)
